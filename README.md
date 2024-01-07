@@ -1,4 +1,4 @@
 # owais
-this is my first repository.
+This is My First Repository.
 <br>
-author- owais khan
+Author- Owais Khan
